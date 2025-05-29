@@ -22,13 +22,14 @@ PHP, MySQL, HTML/CSS, JS, XAMPP
 - Admin Profile & Search
 
 📸 Snapshots
+Art_Gallery/1.Login_page.png
+Art_Gallery/2.Admin_login.png
+Art_Gallery/3.Home_page.png
+Art_Gallery/4.Painting.png
+Art_Gallery/.Enquiry_page.png
+Art_Gallery/6.Wnquiry_req_notification.png
 
-
-
-
-
-
-👩‍🎨 Contributors
+Contributors
 - Punya Shree T S
 - Rachana P R
 
